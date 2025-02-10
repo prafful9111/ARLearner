@@ -1,9 +1,3 @@
-# AR Learner - Android Jetpack Compose
-
-Welcome to the **AR Learner** app! This is a beginner-friendly Augmented Reality (AR) learning application developed with Jetpack Compose for Android, utilizing **SceneView** and **ARCore**. The app offers an engaging way to learn alphabets through 3D models and a fun quiz game.
-
-[![Watch the Tutorial on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red)](https://www.youtube.com/watch?v=1whLL4XJlh4)
-
 ## Features
 
 - **Alphabet-Based Objects**: View 3D models representing different alphabets, helping users to visually connect objects with letters.
