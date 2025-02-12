@@ -53,6 +53,10 @@ android {
 dependencies {
 
     implementation(libs.androidx.core.ktx)
+
+    implementation("com.github.bumptech.glide:glide:4.15.1") // ✅ Glide for GIFs
+    implementation("com.github.bumptech.glide:okhttp3-integration:4.15.1") // ✅ Networking
+    implementation("com.github.bumptech.glide:compose:1.0.0-alpha.1")
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
     implementation(platform(libs.androidx.compose.bom))

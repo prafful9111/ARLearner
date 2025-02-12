@@ -15,29 +15,7 @@ object Utils {
         "Bike" to "yamaha_rx-king.glb",
         "Laptop" to "laptop.glb",
         "Car" to "car.glb",
-        "Commando" to "commando.glb",
-        "Tank" to "tank.glb",
-        "Model" to "model.glb",
-        "G" to "goat.glb",
-        "H" to "hen.glb",
-        "I" to "icecream.glb",
-        "J" to "jug.glb",
-        "K" to "kite.glb",
-        "L" to "lion.glb",
-        "M" to "monkey.glb",
-        "N" to "nest.glb",
-        "O" to "owl.glb",
-        "P" to "parrot.glb",
-        "Q" to "quail.glb",
-        "R" to "rat.glb",
-        "S" to "ship.glb",
-        "T" to "telephone.glb",
-        "U" to "umbrella.glb",
-        "V" to "van.glb",
-        "W" to "watch.glb",
-        "X" to "xylophone.glb",
-        "Y" to "yacht.glb",
-        "Z" to "zebra.glb"
+        "Commando" to "commando.glb"
     )
 
 

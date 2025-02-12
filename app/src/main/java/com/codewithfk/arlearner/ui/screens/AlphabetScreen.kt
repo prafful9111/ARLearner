@@ -36,6 +36,7 @@ fun AlphabetScreen(navController: NavController) {
         "Car",
         "Commando",
         "Tank"
+
     )
     Column {
         Box(modifier = Modifier.height(60.dp)) {
@@ -65,8 +66,8 @@ fun AlphabetItem(alphabet: String, onClick: () -> Unit) {
         generateRandomLightColor()
     }
     Box(modifier = Modifier
-        .padding(16.dp)
-        .size(60.dp)
+        .padding(50.dp)
+        .size(70.dp)
         .clip(RoundedCornerShape(16.dp))
         .background(color)
         .clickable { onClick() }) {
