@@ -15,7 +15,9 @@ object Utils {
         "Bike" to "yamaha_rx-king.glb",
         "Laptop" to "laptop.glb",
         "Car" to "car.glb",
-        "Commando" to "commando.glb"
+        "Commando" to "commando.glb",
+        "Dragon" to "dragon.glb",
+        "Dragon_2" to "deagon_2.glb"
     )
 
 

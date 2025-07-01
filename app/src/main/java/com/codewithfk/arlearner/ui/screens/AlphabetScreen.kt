@@ -35,7 +35,9 @@ fun AlphabetScreen(navController: NavController) {
         "Laptop",
         "Car",
         "Commando",
-        "Tank"
+        "Tank",
+        "Dragon",
+        "Dragon_2"
 
     )
     Column {
